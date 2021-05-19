@@ -1,0 +1,201 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+h1 {
+    font-size: 4.5rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    color: #f38181; /*color 1*/
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-family: 'Poppins' sans-serif;
+    color: #f38181; /*color 1*/
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #fce38a /*color 2*/
+}
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: #95e1d3; /*color 3*/
+    border-width: 10px;
+}
+
+a {
+    color: #fce38a /*color 2*/
+}
+
+.top-container {
+    background-color: #defcf9; /*color 4*/
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-cloud {
+    width: 12rem;
+    height: 12rem;
+    position: absolute;
+    left: 150px;
+    bottom: 250px;
+}
+
+.top-cloud {
+    width: 12rem;
+    height: 12rem;
+    position: absolute;
+    right: 150px;
+    top: 50px;
+}
+
+.sun {
+    width: 12rem;
+    height: 12rem;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.trees {
+    width: 7rem;
+    height: 7rem;
+    position: absolute;
+    bottom: 0px;
+}
+
+.left {
+    left: 100px;
+}
+
+.right {
+    right: 100px;
+}
+
+.mountains {
+    width: 40rem;
+    height: 25rem;
+    margin-bottom: 0px;
+}
+
+.skills {
+    padding-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.images {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding {
+    float: right;
+    margin-left: 30px;
+}
+
+.translation {
+    float: right;
+    margin-left: 30px;
+}
+
+.bio {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.profile-pic {
+    padding-top: 50px;
+}
+
+.intro {
+    width: 40%;
+    line-height: 2;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.contact-me {
+    margin: 50px auto;
+    width: 40%;
+    line-height: 2;
+}
+
+.bottom-container {
+    background-color: #f38181; /*color 1*/
+    padding-top: 20px;
+    line-height: 3;
+}
+
+.copyright {
+    margin-block: 0;
+    color: #95e1d3; /*color 3*/
+    font-size: 0.75rem
+}
+
+.footer-link {
+    color: #fce38a;
+    padding: 20px;
+}
+
+.footer-link:hover {
+    color: #FFFFFF
+}
+
+.BUTTON_LGX {
+   background: #FAD13F;
+   background-image: -webkit-linear-gradient(top, #FAD13F, #FCE38A);
+   background-image: -moz-linear-gradient(top, #FAD13F, #FCE38A);
+   background-image: -ms-linear-gradient(top, #FAD13F, #FCE38A);
+   background-image: -o-linear-gradient(top, #FAD13F, #FCE38A);
+   background-image: -webkit-gradient(to bottom, #FAD13F, #FCE38A);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 1.2rem;
+   padding-left: 10px;
+   padding-right: 10px;
+   -webkit-box-shadow: 1px 1px 10px 0 #000000;
+   -moz-box-shadow: 1px 1px 10px 0 #000000;
+   box-shadow: 1px 1px 10px 0 #000000;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_LGX:hover {
+   border: solid #FFFFFF 1px;
+   background: #FAC7C7;
+   background-image: -webkit-linear-gradient(top, #FAC7C7, #F38181);
+   background-image: -moz-linear-gradient(top, #FAC7C7, #F38181);
+   background-image: -ms-linear-gradient(top, #FAC7C7, #F38181);
+   background-image: -o-linear-gradient(top, #FAC7C7, #F38181);
+   background-image: -webkit-gradient(to bottom, #FAC7C7, #F38181);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.attribution {
+    margin-block: 0;
+    color: #95e1d3; /*color 3*/
+    font-size: 0.75rem
+}
