@@ -42,8 +42,8 @@ a {
 .bottom-cloud {
     width: 16%;
     position: absolute;
-    left: 2%;
-    top: 35%;
+    left: 10%;
+    top: 40%;
 }
 
 .top-cloud {
@@ -61,18 +61,17 @@ a {
 }
 
 .trees {
-    width: 7rem;
-    height: 7rem;
+    width: 15%;
     position: absolute;
     bottom: 0px;
 }
 
 .left {
-    left: 10%;
+    left: 8%;
 }
 
 .right {
-    right: 10%;
+    right: 8%;
 }
 
 .mountains {
