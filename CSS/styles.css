@@ -5,14 +5,14 @@ body {
 }
 
 h1 {
-    font-size: 4.5rem;
+    font-size: 450%;
     margin: 50px auto 0 auto;
     font-family: 'Dancing Script', cursive;
     color: #f38181; /*color 1*/
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 180%;
     font-family: 'Poppins' sans-serif;
     color: #f38181; /*color 1*/
 }
@@ -108,7 +108,7 @@ a {
 }
 
 .bio {
-    font-size: 1.5rem;
+    font-size: 150%;
     font-weight: normal;
 }
 
@@ -144,6 +144,8 @@ a {
 .footer-link {
     color: #fce38a;
     padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .footer-link:hover {
