@@ -48,16 +48,14 @@ a {
 }
 
 .top-cloud {
-    width: 12rem;
-    height: 12rem;
+    width: 16%;
     position: absolute;
     right: 12%;
     top: 7%;
 }
 
 .sun {
-    width: 12rem;
-    height: 12rem;
+    width: 18%;
     position: absolute;
     left: 5%;
     top: 5%;
